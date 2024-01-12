@@ -1,0 +1,106 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+.flex{
+    justify-content: right;
+}
+
+.권한{
+    display: flex;
+    height: 100vh; <---화면의 권한을 100프로 줌
+}
+
+.position{
+    position: relative;
+    right: 64%;
+}
+
+
+
+.flex2{
+    justify-content: space-between;
+}
+
+.position2{
+    position: relative;
+    top: 210px;
+}
+
+.position3{
+    position: relative;
+    top: 420px;
+}
+
+
+.graybox{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    position: absolute;
+}
+
+.center{
+    justify-content: center;
+}
+
+
+
+.posi2{
+    vertical-align: middle;
+}
+
+.box-position{
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+  }
+
+
+.pro3{
+    position: relative;
+    left: 220px;
+    top: 200px
+}
+
+.pro4box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+.pro5box{
+    width: 700px;
+    height: 400px;
+    background-color: gray;
+    color: white;
+    position: relative;
+    top: 60%;
+    left: 59%;
+}
+
+
+.box-position2{
+    position: absolute;
+    bottom: 0px;
+}
+
+
+.box-position3{
+    position:absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.font{
+    font-size: 50px;
+    font-style: italic;
+}
